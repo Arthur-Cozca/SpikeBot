@@ -1,4 +1,4 @@
-# ▂▃▅▇█▓▒░ SpikeBot ░▒▓█▇▅▃▂
+# ▂▃▅▇█▓▒░ SpikeBot ░▒▓█▇▅▃▂ 
 SpikeBot est un bot teamspeak multifonctions
 
 ## Quelles sont les fonctions de SpikeBot ?

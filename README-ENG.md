@@ -19,4 +19,5 @@ SpikeBot has several functions such as: <br>
 🛠️ Administration : `addChannel`, `removeChannel`, `clearBan`, `reboot`, `stats`<br>
 <br>
 Enjoy !
+⛔
 

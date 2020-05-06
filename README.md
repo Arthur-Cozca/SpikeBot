@@ -1,5 +1,5 @@
 # ▂▃▅▇█▓▒░ SpikeBot ░▒▓█▇▅▃▂ 
-SpikeBot est un bot teamspeak multifonctions
+SpikeBot est un bot discord multifonctions
 
 ## Quelles sont les fonctions de SpikeBot ?
 SpikeBot a plusieurs fonctions comme: <br>

@@ -1,0 +1,28 @@
+{
+  "name": "spikebot",
+  "version": "1.0.0",
+  "description": "\u0016SpikeBot, is a discord bot with many functions. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Cozca/SpikeBot.git"
+  },
+  "keywords": [
+    "SpikeBot",
+    "discord.js",
+    "discordbot"
+  ],
+  "author": "Cozca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arthur-Cozca/SpikeBot/issues"
+  },
+  "homepage": "https://github.com/Arthur-Cozca/SpikeBot#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^11.5.1"
+  }
+}
